@@ -152,10 +152,10 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/lucysuppor"),
+                            url=f"https://t.me/laylalist"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/LOCYS")
+                            url=f"https://t.me/awesomesupport")
                    
                 ]
             ]
@@ -193,10 +193,10 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/lucysuppor"),
+                            url=f"https://t.me/laylalist"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/LOCYS")
+                            url=f"https://t.me/awesomeSupport")
 
                     ]
                 ]
@@ -211,10 +211,10 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                             text="𝐂𝐡𝐚𝐧𝐧𝐞𝐥📡",
-                            url=f"https://t.me/lucysuppor"),
+                            url=f"https://t.me/laylalist"),
                         InlineKeyboardButton(
                             text="𝐆𝐫𝐨𝐮𝐩⭐",
-                            url=f"https://t.me/LOCYS")
+                            url=f"https://t.me/awesomesupport")
 
                         ]
                     ]
