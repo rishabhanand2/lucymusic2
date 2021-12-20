@@ -1,7 +1,7 @@
 {
   "name": "lucy",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by lucybots.",
-  "logo": "https://telegra.ph/file/1aa05b6f356b259e7a0d6.jpg",
+  "logo": "https://telegra.ph/file/ec59e80fe4039c556eb16.jpg",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/rishabhanand2/lucymusic2",
   "stack": "container",
