@@ -16,7 +16,7 @@
 
 
 ### Support & Updates 🎑
-<a href="https://t.me/LOCYS"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/LOCYS"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-### [[𝗟𝘂𝗰𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿](https://t.me/Mafiarishabh)]
+<a href="https://t.me/iam_your_heart4"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/iam_your_heart4"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+### [[𝗟𝘂𝗰𝘆 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿](https://t.me/iam_your_heart4)]
 ### THANKS FOR HEXOROP VERY GOOD GUY 
 ### [[HEXOROP](https://github.com/HEXOROP)]
